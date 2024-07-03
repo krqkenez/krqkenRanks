@@ -13,9 +13,9 @@ author: krqkenez
 website: https://github.com/krqkenez
 
 permissions:
-  lunarranks.command.rank:
+  krqkenranks.command.rank:
     default: op
     description: Rank command permission
-  lunarranks.notifications:
+  krqkenranks.notifications:
     default: op
     description: Rank updates notifications permission
