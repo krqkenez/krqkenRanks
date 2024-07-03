@@ -1,2 +1,6 @@
 # krqkenRanks
-krqkenRanks is a rank system with rights for PMMP3.
+Rank management system
+
+version: 1.0.0
+api: 3.0.0 
+name: krqkenRanks
