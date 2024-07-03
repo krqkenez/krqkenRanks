@@ -1,0 +1,21 @@
+name: krqkenRanks
+main: krqkenez\ranks\krqkenRanks
+
+version: 1.0.0
+api: 3.0.0
+
+load: STARTUP
+
+description: Rank management system
+prefix: krqkenRanks
+
+author: krqkenez
+website: https://github.com/krqkenez
+
+permissions:
+  lunarranks.command.rank:
+    default: op
+    description: Rank command permission
+  lunarranks.notifications:
+    default: op
+    description: Rank updates notifications permission
